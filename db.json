@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "faculty": "FiT",
+      "course": "4",
+      "name": "Pavel",
+      "surname": "Romanyuk",
+      "birth_day": "1996-08-28",
+      "phone": "292283595",
+      "location": "Brest",
+      "id": 1
+    },
+    {
+      "faculty": "Faculty",
+      "course": "2",
+      "name": "Name",
+      "surname": "Surname",
+      "birth_day": "2018-02-24",
+      "phone": "121231212",
+      "location": "Brest",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
